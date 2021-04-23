@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lachtannak.github.io/csb-12dl9/static/css/main.a83fa94d.chunk.css",
+    "main.js": "https://lachtannak.github.io/csb-12dl9/static/js/main.c5872347.chunk.js",
+    "main.js.map": "https://lachtannak.github.io/csb-12dl9/static/js/main.c5872347.chunk.js.map",
+    "runtime-main.js": "https://lachtannak.github.io/csb-12dl9/static/js/runtime-main.56f36d5e.js",
+    "runtime-main.js.map": "https://lachtannak.github.io/csb-12dl9/static/js/runtime-main.56f36d5e.js.map",
+    "static/js/2.8f064a69.chunk.js": "https://lachtannak.github.io/csb-12dl9/static/js/2.8f064a69.chunk.js",
+    "static/js/2.8f064a69.chunk.js.map": "https://lachtannak.github.io/csb-12dl9/static/js/2.8f064a69.chunk.js.map",
+    "index.html": "https://lachtannak.github.io/csb-12dl9/index.html",
+    "static/css/main.a83fa94d.chunk.css.map": "https://lachtannak.github.io/csb-12dl9/static/css/main.a83fa94d.chunk.css.map",
+    "static/js/2.8f064a69.chunk.js.LICENSE.txt": "https://lachtannak.github.io/csb-12dl9/static/js/2.8f064a69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56f36d5e.js",
+    "static/js/2.8f064a69.chunk.js",
+    "static/css/main.a83fa94d.chunk.css",
+    "static/js/main.c5872347.chunk.js"
+  ]
+}
